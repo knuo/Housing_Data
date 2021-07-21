@@ -1,4 +1,4 @@
--- Exploratory Data Analysis
+/* Exploratory Data Analysis*\
 
 select *
 from PortfolioProject.dbo.NashvilleHousing
